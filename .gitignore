@@ -1,0 +1,13 @@
+# All files and folders that need to be ignored should be added in this file #
+##############################################################################
+bin
+gen
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Thumbs.db
+diff_output.txt
